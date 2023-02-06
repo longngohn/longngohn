@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @longngohn
-- 👀 I’m interested in C#, API, Movie, Music, Baduk, ...
+- 👀 I’m interested in Javascript, HTML, CSS, Python, Movie, Music, Baduk, ...
 - 🌱 I’m currently learning Revit API
-- 💞️ I’m looking to collaborate on BIM Company
+- 💞️ I’m looking to collaborate on BIM Company, Web developer
 - 📫 How to reach me: ngohailong1991@gmail.com
 
 <!---
